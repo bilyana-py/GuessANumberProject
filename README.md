@@ -15,3 +15,6 @@ Second level: choose a number between 1 and 200 and press Enter.
 ![image](https://github.com/user-attachments/assets/7a85ade9-c555-4081-abaa-cb8095bd836d)
 ![image](https://github.com/user-attachments/assets/d73080e7-96ff-4b37-bcc6-6a62cfd76c15)
 
+## Live Demo
+You can play the game directly in your Web browser here:
+https://replit.com/@bilqnahristova8/GuessANumber#main.py
